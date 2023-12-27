@@ -1,4 +1,5 @@
-# Plant Disease Classification with TensorFlow
+# Plant Disease Classification
+<img width="697" alt="image" src="https://github.com/Yashsharma009/Plant_disease/assets/116294789/64a51279-984f-4ffa-bc16-d36900335cf5">
 
 This project uses deep learning with TensorFlow to classify plant diseases. The dataset used is the PlantVillage dataset, which contains images of various plant diseases affecting tomatoes.
 
