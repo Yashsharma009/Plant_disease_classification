@@ -65,5 +65,6 @@ The notebook includes visualizations of training and validation accuracy and los
 
 The model can make predictions on test set images, providing predicted classes, confidence scores, and suggested cures.
 
-![Predictions](predictions.png)
+<img width="592" alt="image" src="https://github.com/Yashsharma009/Plant_disease_classification/assets/116294789/73ea0764-9926-45df-921d-1b9a3ebaee3c">
+
 
