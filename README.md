@@ -66,15 +66,3 @@ The model can make predictions on test set images, providing predicted classes, 
 
 ![Predictions](predictions.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- PlantVillage for providing the dataset.
-
-Feel free to customize this README based on your project's unique features and requirements. Good luck with your project!
-```
-
-Make sure to replace placeholders such as `your-username`, `BATCH_SIZE`, `EPOCHS`, and add any additional sections or details that are relevant to your project. Also, include images such as training/validation results and predictions in the repository and reference them in the README.
