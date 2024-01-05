@@ -58,7 +58,8 @@ print(f"Test Accuracy: {round(scores[1], 4) * 100}%")
 
 The notebook includes visualizations of training and validation accuracy and loss over epochs.
 
-![Training and Validation Results](training_validation_results.png)
+<img width="312" alt="image" src="https://github.com/Yashsharma009/Plant_disease_classification/assets/116294789/4ec69f34-63a1-48ff-99d6-d6286987c229">
+
 
 ## Predictions and Cure Information
 
